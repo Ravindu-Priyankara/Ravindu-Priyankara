@@ -31,7 +31,7 @@
 
 
 - 👋 Hi, I’m **@Ravindu-Priyankara**
-- 👀 I’m interested in **CyberSecurity**
+- 👀 I’m interested in **CyberSecurity and Software development**
 - 🌱 I’m currently learning **Python, Java, C++**
 - 💞️ I’m looking to collaborate on **OpernSource Projects**
 <a href="https://www.linkedin.com/in/ravindu-priyankara-8b4449223/">
