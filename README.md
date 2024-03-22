@@ -12,29 +12,27 @@
 
 ## 🚀 About Me
 
-$\texttt{\color{lightblue}{Welcome \\ I \\  am\\  a\\  backend\\  developer\\  with\\  a\\  passion\\  for\\  building\\  robust\\  and }}$
-$\texttt{\color{lightblue}{scalable\\  systems.\\ With\\  4\\  years\\  of\\  experiencein\\  the\\  field,\\  I've\\  worked\\  on\\  various }}$
-$\texttt{\color{lightblue}{projects\\  ranging\\  fromAPI\\  development\\  to\\  database\\  optimization.}}$
+$\texttt{\color{lightblue}{Welcome  I   am  a  backend  developer  with  a  passion  for  building  robust  and }}$
+$\texttt{\color{lightblue}{scalable  systems. With  4  years  of  experiencein  the  field,  I've  worked  on  various }}$
+$\texttt{\color{lightblue}{projects  ranging  fromAPI  development  to  database  optimization.}}$
 <br>
 
-$\texttt{\color{lightblue}{👩‍💻 I'm\\ currently\\ working\\ on\color{red} :\color{orange} My\\ freelancing\\ projects}}$
+$\texttt{\color{lightblue}{👩‍💻 I'm currently working on\color{red} :\color{orange} My freelancing projects}}$
 <br>
 
-$\texttt{\color{lightblue}{🧠  I'm\\ currently\\ learning\color{red}  :\color{orange}  Algorithms\\ Development\\ to\\ enhance\\ my\\ problem-solving\\ skills }}$  
-$\texttt{\color{orange}{and\\ optimize the\\ efficiency\\ of\\ my\\ code. }}$
+$\texttt{\color{lightblue}{🧠  I'm currently learning\color{red}  :\color{orange}  Algorithms Development to enhance my problem-solving skills }}$  
+$\texttt{\color{orange}{and optimize the efficiency of my code. }}$
 <br>
 
-$\texttt{\color{lightblue}{👯 I'm looking\\ to\\ collaborate\\ on\color{red} :\color{orange} Opensource\\ Projects\\ to\\ contribute\\ to\\ the\\ communityand }}$ 
-$\texttt{\color{orange}{expand\\ myknowledge software\\ development.}}$
+$\texttt{\color{lightblue}{👯 I'm looking to collaborate on\color{red} :\color{orange} Opensource Projects to contribute to the communityand }}$ 
+$\texttt{\color{orange}{expand myknowledge software development.}}$
 
-$\texttt{\color{lightblue}{💬 Ask me\\ about\color{red} : \color{orange}anything\\ related\\ to\\ backend\\ development,\\ Python,\\ Java,\\ or\\ freelancing }}$ 
-$\texttt{\color{orange}{experiences—I'm\\ always\\ happy\\ to\\ share\\ my\\ insights\\ and\\ help\\ others\\ grow. }}$
+$\texttt{\color{lightblue}{💬 Ask me about\color{red} : \color{orange}anything related to backend development, Python, Java, or freelancing }}$ 
+$\texttt{\color{orange}{experiences—I'm always happy to share my insights and help others grow. }}$
 <br>
 
-$\texttt{\color{lightblue}{⚡️ Fun fact\\ \color{red}:\color{orange}  I'm\\ intrigued\\ by\\ the\\ mysteries\\ of\\ the\\ world,\\ from\\ exploring\\ abandoned\\ places }}$ 
-$\texttt{\color{orange}{to\\ delving\\ into\\ the\\ realm\\ of\\ ghost\\ hunting.\\ There's\\ an\\ undeniable\\ thrill\\ in\\ uncovering\\ the}}$
-$\texttt{\color{orange}{unknown\\ and\\ unraveling\\ the\\ secrets\\ that\\ lie\\ beneath\\ the\\ surface.\\ Whether\\ it's\\ investigating }}$ $\texttt{\color{orange}{paranormal\\ phenomena\\ or\\ seeking\\ out\\ hidden\\ treasures,\\ I'm\\ always\\ up\\ for\\ an\\ adventure\\ that }}$ 
-$\texttt{\color{orange}{promises\\ to\\ challenge\\ perceptions\\ and\\ ignite\\ the\\ imagination. }}$
+$\texttt{\color{lightblue}{⚡️ Fun fact \color{red}:\color{orange}  I'm intrigued by the mysteries of the world, from exploring abandoned places }}$ 
+$\texttt{\color{orange}{to delving into the realm of ghost hunting. There's an undeniable thrill in uncovering the}}$
+$\texttt{\color{orange}{unknown and unraveling the secrets that lie beneath the surface. Whether it's investigating }}$ $\texttt{\color{orange}{paranormal phenomena or seeking out hidden treasures, I'm always up for an adventure that }}$ 
+$\texttt{\color{orange}{promises to challenge perceptions and ignite the imagination. }}$
 
-
-$${\color{red}Welcome \\ \color{lightblue}To \\ \color{orange}Stackoverflow}$$
