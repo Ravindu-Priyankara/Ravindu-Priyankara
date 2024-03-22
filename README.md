@@ -54,5 +54,5 @@ $\texttt{\color{orange}{promises to challenge perceptions and ignite the imagina
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu-priyankara&theme=algolia" />
 </a>
 <a href="https://github.com/Ravindu-Priyankara">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&langs_count=8&card_width=320&theme=algolia" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-priyankara&layout=donut&langs_count=8&card_width=320&theme=algolia" />
 </a>
