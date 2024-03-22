@@ -22,9 +22,9 @@ $\texttt{\color{lightblue}{👩‍💻 I'm\\ currently\\ working\\ on\color{red}
 $\texttt{\color{lightblue}{🧠  I'm\\ currently\\ learning\color{red}  :\color{orange}  Algorithms\\ Development\\ to\\ enhance\\ my\\ problem-solving\\ skills\\ and\\ optimize\\ the\\  efficiency\\ of\\ my\\ code.\\ }}$
 <br>
 
-$\texttt{\color{lightblue}{👯 I'm\\ looking\\ to\\ collaborate\\ on\color{red} :\color{orange} Opensource\\ Projects\\ to\\ contribute\\ to\\ the\\ community\\ and\\ expand\\ my\\ knowledge\\ in\\ software\\ development.\\}}$
+$\texttt{\color{lightblue}{👯 I'm looking\\ to\\ collaborate\\ on\color{red} :\color{orange} Opensource\\ Projects\\ to\\ contribute\\ to\\ the\\ community\\ and\\ expand\\ my\\ knowledge\\ in\\ software\\ development.\\}}$
 
-$\texttt{\color{lightblue}{💬 Ask\\ me\\ about\color{red} : \color{orange}anything\\ related\\ to\\ backend\\ development,\\ Python,\\ Java,\\ or\\ freelancing\\ experiences—I'm\\ always\\ happy\\ to\\ share\\ my\\ insights\\ and\\ help\\ others\\ grow.\\}}$
+$\texttt{\color{lightblue}{💬 Ask me\\ about\color{red} : \color{orange}anything\\ related\\ to\\ backend\\ development,\\ Python,\\ Java,\\ or\\ freelancing\\ experiences—I'm\\ always\\ happy\\ to\\ share\\ my\\ insights\\ and\\ help\\ others\\ grow.\\}}$
 <br>
 
 $\texttt{\color{lightblue}{⚡️ Fun fact\\ \color{red}:\color{orange}  I'm\\ intrigued\\ by\\ the\\ mysteries\\ of\\ the\\ world,\\ from\\ exploring\\ abandoned\\ places\\ to\\ delving\\ into\\ the\\ realm\\ of\\ ghost\\ hunting.\\ There's\\ an\\ undeniable\\ thrill\\ in\\ uncovering\\ the\\ unknown\\ and\\ unraveling\\ the\\ secrets\\ that\\ lie\\ beneath\\ the\\ surface.\\ Whether\\ it's\\ investigating\\ paranormal\\ phenomena\\ or\\ seeking\\ out\\ hidden\\ treasures,\\ I'm\\ always\\ up\\ for\\ an\\ adventure\\ that\\ promises\\ to\\ challenge\\ perceptions\\ and\\ ignite\\ the\\ imagination.}}$
