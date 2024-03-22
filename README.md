@@ -43,11 +43,16 @@ $\texttt{\color{orange}{promises to challenge perceptions and ignite the imagina
 
 ## ✡️ Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Ravindu-Priyankara">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ravindu-priyankara&show_icons=true&theme=algolia" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Ravindu-Priyankara">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-priyankara&layout=compact&theme=algolia&langs_count=8&card_width=320" />
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu-priyankara&theme=algolia" alt="ravindu-priyankara" /></p>
+<a href="https://github.com/Ravindu-Priyankara">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu-priyankara&theme=algolia" />
+</a>
+<a href="https://github.com/Ravindu-Priyankara">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&langs_count=8&card_width=320&theme=algolia" />
+</a>
