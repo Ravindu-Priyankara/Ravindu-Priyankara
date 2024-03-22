@@ -47,5 +47,7 @@ $\texttt{\color{orange}{promises to challenge perceptions and ignite the imagina
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ravindu-priyankara&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-priyankara&layout=compact&theme=transparent&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-priyankara&layout=compact&theme=radical&langs_count=8&card_width=320" />
 </a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindu-priyankara&theme=radical" alt="ravindu-priyankara" /></p>
