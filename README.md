@@ -12,22 +12,22 @@
 
 ## 🚀 About Me
 
-$${\color{lightblue}Welcome \space I \space  am\space  a\space  backend\space  developer\space  with\space  a\space  passion\space  for\space  building\space  robust\space  and\space scalable\space  systems.\space  With\space  4\space  years\space  of\space  experience}$$
-$${\color{lightblue}in\space  the\space  field,\space  I've\space  worked\space  on\space  various\space  projects\space  ranging\space  from\space  API\space  development\space  to\space  database\space  optimization.}$$
+$\texttt{\color{lightblue}{Welcome \space I \space  am\space  a\space  backend\space  developer\space  with\space  a\space  passion\space  for\space  building\space  robust\space  and\space scalable\space  systems.\space  With\space  4\space  years\space  of\space  experience}}$
+$\texttt{\color{lightblue}{in\space  the\space  field,\space  I've\space  worked\space  on\space  various\space  projects\space  ranging\space  from\space  API\space  development\space  to\space  database\space  optimization.}}$
  <br>
 
-$${\color{lightblue}👩‍💻\space I'm\space currently\space working\space on\color{red} :\color{orange} My\space freelancing\space projects}$$
+$\texttt{\color{lightblue}{👩‍💻 I'm\space currently\space working\space on\color{red} :\color{orange} My\space freelancing\space projects}}$
 <br>
 
-$${\color{lightblue}🧠 \space I'm\space currently\space learning\color{red}  :\color{orange}  Algorithms\space Development\space to\space enhance\space my\space problem-solving\space skills\space and\space optimize\space the\\  efficiency\space of\space my\space code.\space }$$
+$\texttt{\color{lightblue}{🧠 \space I'm\space currently\space learning\color{red}  :\color{orange}  Algorithms\space Development\space to\space enhance\space my\space problem-solving\space skills\space and\space optimize\space the\\  efficiency\space of\space my\space code.\space }}$
 <br>
 
-👯‍♀️ I'm looking to collaborate on : Opensource Projects to contribute to the community and expand my knowledge in software development.
+$\texttt{\color{lightblue}{👯 I'm\space looking\space to\space collaborate\space on\color{red} :\color{orange} Opensource\space Projects\space to\space contribute\space to\space the\space community\space and\space expand\space my\space knowledge\space in\space software\space development.\space}}$
 
-💬 Ask me about : anything related to backend development, Python, Java, or freelancing experiences—I'm always happy to share my insights and help others grow.
+$\texttt{\color{lightblue}{💬\space Ask\space me\space about\color{red} : \color{orange}anything\space related\space to\space backend\space development,\space Python,\space Java,\space or\space freelancing\space experiences—I'm\space always\space happy\space to\space share\space my\space insights\space and\space help\space others\space grow.\space}}$
 <br>
 
-⚡️ Fun fact :  I'm intrigued by the mysteries of the world, from exploring abandoned places to delving into the realm of ghost hunting. There's an undeniable thrill in uncovering the unknown and unraveling the secrets that lie beneath the surface. Whether it's investigating paranormal phenomena or seeking out hidden treasures, I'm always up for an adventure that promises to challenge perceptions and ignite the imagination.
+$\texttt{\color{lightblue}{⚡️ Fun\space fact\space \color{red}:\color{orange}  I'm\space intrigued\space by\space the\space mysteries\space of\space the\space world,\space from\space exploring\space abandoned\space places\space to\space delving\space into\space the\space realm\space of\space ghost\space hunting.\space There's\space an\space undeniable\space thrill\space in\space uncovering\space the\space unknown\space and\space unraveling\space the\space secrets\space that\space lie\space beneath\space the\space surface.\space Whether\space it's\space investigating\space paranormal\space phenomena\space or\space seeking\space out\space hidden\space treasures,\space I'm\space always\space up\space for\space an\space adventure\space that\space promises\space to\space challenge\space perceptions\space and\space ignite\space the\space imagination.}}$
 
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Stackoverflow}$$
