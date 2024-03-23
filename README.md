@@ -56,33 +56,22 @@ $\texttt{\color{orange}{promises to challenge perceptions and ignite the imagina
 <a href="https://github.com/Ravindu-Priyankara">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu-priyankara&layout=donut&langs_count=8&card_width=320&theme=algolia" />
 </a>
+<br>
+<br>
+<div align="center">
 
-![Snake animation](https://github.com/ravindu-priyankara/ravindu-priyankara/blob/output/github-contribution-grid-snake.svg)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/Ravindu-Priyankara/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/Ravindu-Priyankara/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/Ravindu-Priyankara/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-<img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/ravindu-priyankara/Ravindu-Priyankara/output/github-contribution-grid-snake.svg"
-  />
-
-  <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+$\texttt{\color{cyan}{🐍 My Contributions 🐍}}$
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ravindu-priyankara/Ravindu-Priyankara/output//github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/ravindu-priyankara/Ravindu-Priyankara/output//github-contribution-grid-snake.svg"
+    />
+  </picture>
   
   <br/><br/><br/>
 </div>
