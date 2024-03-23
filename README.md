@@ -69,11 +69,13 @@ $\texttt{\color{cyan}{🐍 My Contributions 🐍}}$
     />
     <img
       alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/ravindu-priyankara/Ravindu-Priyankara/output//github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/ravindu-priyankara/Ravindu-Priyankara/output//github-contribution-grid-snake-dark.svg"
     />
   </picture>
   
   <br/><br/><br/>
 </div>
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ravindu-priyankara&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=03F907&line=1D03F9&point=7F3FBF&area_color=FFFFFF&title_color=73FC07&area=true)
+<div align="center">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=ravindu-priyankara&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=false">
+</div>
