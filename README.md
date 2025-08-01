@@ -11,9 +11,9 @@
 <!--Typing svg loading section start-->
 
 <!--about me image loading section start-->
-<!--<p align="center">
+<p align="center">
   <img src="assets/third.png" alt = "text image">
-</p>-->
+</p>
 <!--about me image loading section end-->
 
 <!--about me text  section start-->
