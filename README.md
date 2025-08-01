@@ -1,7 +1,7 @@
 <!--Tiger svg loading section start-->
 <p align="center">
   <img src="assets/Ravindu.gif" alt="Alt text">
-  <img src="assets/second.png" alt = "text image">
+  <!--<img src="assets/second.png" alt = "text image">-->
 </p>
 <br>
 <!--Tiger svg loading section end-->
