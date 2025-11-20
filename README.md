@@ -62,7 +62,9 @@ stack frames, heap layouts, instruction execution, memory safety, and vulnerabil
 
 ## 📊 GitHub Stats
 <p align="center">
+
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=ravindu-priyankara&show_icons=true&theme=algolia" />
+
 </p>
 
 ---
@@ -70,3 +72,4 @@ stack frames, heap layouts, instruction execution, memory safety, and vulnerabil
 <p align="center">
   <img src="https://raw.githubusercontent.com/ravindu-priyankara/Ravindu-Priyankara/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
