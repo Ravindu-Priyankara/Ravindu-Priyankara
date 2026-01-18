@@ -1,83 +1,97 @@
-<h1 align="center">Low-Level Security Research & Malware Analysis</h1>
+<h1 align="center">Low‑Level Security Research & Binary Analysis</h1>
 
 <p align="center">
   <i>“Silence. Precision. Control.”</i>
 </p>
 
+## About Me
+
+I’m a self‑taught low‑level security researcher focused on **understanding, analyzing, and reasoning about binary behavior at the instruction level**.
+
+My work centers on how executables actually behave at runtime — from ELF loading and control flow to stack frames, memory protections, and system calls. I study both **benign and malicious binaries** to improve analysis, debugging, and security understanding.
+
+I care less about tools and more about **first principles**: what the CPU executes, how memory is accessed, and why programs behave the way they do.
+
 ---
 
-## 🧬 About Me
+## Core Focus Areas
 
-I'm a self-taught low-level security researcher focused on:
-
-* Malware analysis & binary behavior
 * Reverse engineering Linux ELF binaries
-* Anti-debug & anti-analysis bypass techniques
-* Binary patching & logic modification
-* System-level problem solving
-
-My work revolves around understanding how machines *really* behave:
-stack frames, heap layouts, instruction execution, memory protections, and runtime behavior of binaries.
-
----
-
-## ⚔️ Current Focus
-
-* 📌 Reverse engineering ELF binaries
-* 📌 Binary patching & logic neutralization
-* 📌 Anti-debug / anti-analysis bypass techniques
-* 📌 Instruction-level debugging with GDB
-* 📌 Memory protections (PIE, NX, ASLR, stack canaries)
-* 📌 Exploit development fundamentals (long-term trajectory)
+* Binary instrumentation and patching for research & analysis
+* Analysis of anti‑debugging and anti‑analysis techniques used in protected or malicious software
+* Instruction‑level debugging with GDB and radare2
+* Understanding memory protections (PIE, NX, ASLR, stack canaries)
+* Control‑flow integrity and execution tracing
 
 ---
 
-## 🧩 What I Build
+## What I Build
 
-* Malware-neutralization and analysis labs
-* Memory corruption & control-flow demos
-* Reverse-engineered binaries & protected program analysis
-* Instruction-level debugging examples
-* Small exploit primitives for learning
-* Focused RE notes and proof screenshots
+* Binary analysis and malware‑neutralization labs
+* Control‑flow redirection and instrumentation demonstrations
+* Reverse‑engineered binaries with documented behavior
+* Instruction‑level debugging walkthroughs
+* Educational exploit primitives to understand vulnerability mechanics
+* Research notes, diagrams, and proof screenshots for clarity and reproducibility
+
+> All projects are **educational and research‑focused**, designed to explain *how* binaries work — not to deploy malicious software.
 
 ---
 
-## 📚 Learning Roadmap (Active)
+## Learning Roadmap (Active)
 
 * ✔ C fundamentals & pointers
 * ✔ Stack & heap internals
 * ✔ Dynamic memory & memory corruption basics
-* 🔥 Reverse engineering & binary patching
-* 🔥 Anti-debugging detection & bypass
-* ► Next: Advanced malware analysis → Exploit development fundamentals
+* 🔥 Reverse engineering & binary instrumentation
+* 🔥 Analysis of anti‑debugging and anti‑analysis techniques
+* ► Next: Advanced malware analysis → exploit development fundamentals
 
 ---
 
-## 🛠 Tech (Specialized)
+## Technical Stack (Specialized)
 
-**Languages:**
-`C` • `Assembly` • `Python`
+**Languages**
 
-**Tools:**
-`gdb` • `radare2` • `Ghidra` • `objdump` • `strace` • `Linux` • `gcc` • `make`
+* C
+* Assembly (x86‑64)
+* Python
 
-*(Pwntools included for small exploit primitives only)*
+**Tools & Environments**
+
+* GDB
+* radare2
+* Ghidra
+* objdump
+* strace
+* Linux
+* gcc / make
+
+*(Pwntools used only for controlled educational experiments)*
 
 ---
 
-## 📊 GitHub Stats
+## Research Philosophy
 
-<p align="center">
+I believe strong security engineers understand systems **from the bottom up**.
 
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=ravindu-priyankara&show_icons=true&theme=algolia" />
+Instead of relying on frameworks or automation, I focus on:
 
-</p>
+* reading raw instructions
+* tracking register state
+* understanding calling conventions
+* following execution paths precisely
+
+Depth, clarity, and correctness matter more than speed.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ravindu-priyankara/Ravindu-Priyankara/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## Current Direction
+
+Building a public research portfolio around:
+
+* Binary instrumentation via control‑flow redirection
+* ELF analysis and execution tracing
+* Defensive understanding of techniques used by protected and malicious binaries
 
 ---
