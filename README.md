@@ -1,7 +1,7 @@
-<h1 align="center">INTP • Systems • Security </h1>
+I'm just Ravindu. 
 
-Life is a chaotic runtime environment with no documentation.
+Look at this snake and waste your time.
 
-I read kernel source code because it's easier than understanding humans.
-
-Sometimes both segfault.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ravindu-priyankara/Ravindu-Priyankara/output/github-contribution-grid-snake-dark.svg" />
+</p>
