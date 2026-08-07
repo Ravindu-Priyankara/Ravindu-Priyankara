@@ -1,9 +1,12 @@
-# I'm just Ravindu.
+```assembly
+mov  rdi, [social_interaction]
+call drain_battery           ; Decrements remaining social energy
 
-I mean... I already stole your time. That's why you're here.
->
-> Now this snake wants some attention too.
+cmp  rax, 0x0                ; Check if battery == depleted
+je   trigger_shutdown
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ravindu-priyankara/Ravindu-Priyankara/output/github-contribution-grid-snake-dark.svg" />
-</p>
+mov  rdi, small_talk
+call panic                   ; Kernel panic: Illegal instruction
+jmp  [hermit_mode]           ; Retreat to localhost immediately
+```
+- Reverse engineer focused on Linux kernel internals, low-level security, x86_64, and understanding what actually happens beneath the abstraction.
