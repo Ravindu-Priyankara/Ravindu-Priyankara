@@ -11,11 +11,20 @@ mov     rdi, [curiosity]
 call    investigate
 ```
 
-Hi, I'm **Ravindu**.
+## Hi, I'm **Ravindu**.
 
 I like understanding software from the layer where the documentation stops being helpful.
 
-Mostly interested in:
+### System Diagnostics / Uptime
+> - **Status:** 25 / 75 years (33.3% allocated runtime consumed)
+> - **Signal:** `SIGTERM` pending (unhandled, because nobody can🥲)
+> - **Precondition:** `#define MEMENTO_MORI 1`
+
+*A somewhat grim memory leak, but it speeds up execution.*
+
+---
+
+### Mostly interested in:
 
 * Linux internals
 * Reverse engineering
